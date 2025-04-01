@@ -44,3 +44,5 @@ git pull --ff-only origin main
 git checkout -b feature3
 
 now this brnach is in ur local , so make changes and commit and push to see it in remote
+
+#now this is added as part of old branch and now some chnages went in already, so we need to use git rebase or git merge.

@@ -1,3 +1,7 @@
 git merge:
 
 When we use git merge all 
+
+
+
+Now i am edit tis file in a a branch and want to see how the merge commit can be avoided in all and just have clean commit.

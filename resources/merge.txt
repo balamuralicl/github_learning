@@ -1,0 +1,3 @@
+git merge:
+
+When we use git merge all 
